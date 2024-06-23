@@ -1,0 +1,17 @@
+{
+  "name": "@wallet-app/store",
+  "version": "1.0.0",
+  "author": "alfaarghya",
+  "license": "MIT",
+  "private": true,
+  "exports": {
+    "./useCount": "./src/hooks/useCount.ts"
+  },
+  "dependencies": {
+    "recoil": "^0.7.7"
+  },
+  "devDependencies": {
+    "@wallet-app/eslint-config": "*",
+    "@wallet-app/typescript-config": "*"
+  }
+}
