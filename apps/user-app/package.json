@@ -11,6 +11,7 @@
   "dependencies": {
     "@wallet-app/store": "*",
     "@wallet-app/ui": "*",
+    "@wallet-app/db": "*",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
