@@ -1,0 +1,14 @@
+{
+  "name": "@wallet-app/types",
+  "version": "1.0.0",
+  "author": "alfaarghya",
+  "license": "MIT",
+  "private": true,
+  "exports": {
+    "./test": "./src/test.ts"
+  },
+  "devDependencies": {
+    "@wallet-app/eslint-config": "*",
+    "@wallet-app/typescript-config": "*"
+  }
+}
