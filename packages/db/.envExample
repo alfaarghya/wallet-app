@@ -1,0 +1,3 @@
+# add a .env file and fill this up
+
+DATABASE_URL="your database connection string"

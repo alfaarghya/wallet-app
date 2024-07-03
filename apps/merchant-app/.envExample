@@ -1,0 +1,9 @@
+# add a .env file and fill this up
+
+# go to this page to generate -> https://next-auth.js.org/providers/google
+
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+
+NEXTAUTH_URL=http://localhost:3001
+NEXTAUTH_SECRET=your_secret
