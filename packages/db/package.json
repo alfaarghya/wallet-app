@@ -9,10 +9,11 @@
   },
   "devDependencies": {
     "@wallet-app/eslint-config": "*",
-    "@wallet-app/typescript-config": "*"
+    "@wallet-app/typescript-config": "*",
+    "prisma": "^5.16.1"
   },
   "dependencies": {
     "@prisma/client": "^5.15.1",
-    "prisma": "^5.15.1"
+    "prisma": "^5.16.1"
   }
 }
